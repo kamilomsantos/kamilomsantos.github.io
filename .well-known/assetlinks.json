@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kamilomsantos.twa",
+    "sha256_cert_fingerprints": ["A9:48:2B:19:C6:BB:66:01:1F:99:86:A2:78:DF:06:DA:83:FC:4D:F7:AE:D7:A5:66:60:8B:2E:E6:59:07:A1:B8"]
+  }
+}]
